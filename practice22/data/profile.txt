@@ -1,0 +1,5 @@
+name: Nazar
+surname: Tarasiuk
+group: I-23
+year: 2008
+language: Python
