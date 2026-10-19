@@ -1,0 +1,15 @@
+Expenses report for Твоє ім'я та прізвище (Твоя група)
+Period: 2026-10-05 .. 2026-10-07
+Records: 3
+
+category      count       total    share  chart
+-------------------------------------------------------
+food              1      120.00    53.3%  ###########
+coffee            1       65.00    28.9%  ######
+transport         1       40.00    17.8%  ####
+-------------------------------------------------------
+total             3      225.00   100.0%
+
+Top day: 2026-10-05 (120.00)
+Most expensive: food 120.00 (groceries)
+Average per day: 75.00
